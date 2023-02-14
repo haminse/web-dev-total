@@ -51,6 +51,7 @@ function App() {
         link = 'https://balance-game.netlify.app'
 
       />
+      <br></br>
     </div>
   );
 }

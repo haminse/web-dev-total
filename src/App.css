@@ -16,6 +16,11 @@
 
 }
 
+img:hover {
+  border: solid blue 3px;
+}
+
+
 .button img {
   border-radius: 55px;
   /* border : solid white 0.1px; */
