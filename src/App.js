@@ -14,7 +14,7 @@ const Button = (props) => {
 function App() {
   return (
     <div className="container">
-      <h1>TOY WEB PROJECT</h1>
+      <h1>WEB PROJECT</h1>
       <h4>by MINSE</h4>
       <Button
         imgSrc="img/001.png"
