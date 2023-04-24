@@ -52,6 +52,14 @@ function App() {
 
       />
       <br></br>
+      <br></br>
+
+      <Button
+        imgSrc = 'img/desc.png'
+        altText = "Description page"
+        link = 'https://aminss.tistory.com/61'
+      />
+      <br></br>
     </div>
   );
 }
